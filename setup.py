@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "end-to-end-chest-cancer-classification-using-MLflow"
 AUTHOR_USER_NAME = "ts5578"
-SRC_REPO = "chest-cancer-classifier"
+SRC_REPO = "ChestCancerClassifier"
 AUTHOR_EMAIL = "ts5578@srmist.edu.in"
 
 
