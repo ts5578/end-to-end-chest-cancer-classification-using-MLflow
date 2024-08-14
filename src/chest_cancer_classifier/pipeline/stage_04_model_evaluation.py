@@ -1,6 +1,8 @@
 from chest_cancer_classifier.config.configuration import ConfigurationManager
-from chest_cancer_classifier.components.model_evaluation_mlflow import Evaluation 
+from chest_cancer_classifier.components.model_evaluation_mlflow import Evaluation
 from chest_cancer_classifier import logger
+
+
 
 STAGE_NAME = "Evaluation stage"
 
@@ -15,7 +17,7 @@ class EvaluationPipeline:
         evaluation = Evaluation(eval_config)
         evaluation.evaluation()
         evaluation.save_score()
-        # evaluation.log_into_mlflow()
+        #evaluation.log_into_mlflow()
 
 
 

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3de37c578a4d4c5398b1d24bf22dfdcc/artifacts
+end_time: 1723652406637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de37c578a4d4c5398b1d24bf22dfdcc
+run_name: clumsy-horse-0
+run_uuid: 3de37c578a4d4c5398b1d24bf22dfdcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723652388681
+status: 4
+tags: []
+user_id: ASUS
