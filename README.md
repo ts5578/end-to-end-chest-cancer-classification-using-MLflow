@@ -1,7 +1,7 @@
 # end-to-end-chest-cancer-classification-using-MLflow
 
 
-##workflow 
+## workflow 
 
 
 1. Update config.yaml
@@ -13,3 +13,11 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+
+### dagshub
+
+MLFLOW_TRACKING_URI ="https://dagshub.com/ts5578/end-to-end-chest-cancer-classification-using-MLflow.mlflow"
+MLFLOW_TRACKING_USERNAME ="ts5578"
+MLFLOW_TRACKING_PASSWORD ="a4fdb2b615770584438afb314fa6994ea3786856"
